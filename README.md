@@ -10,7 +10,7 @@
   
 - 👯 I’m looking to collaborate on projects related to Web Development
 
-- 👨‍💻 All of my projects are available at [https://github.com/nikita-1310](https://github.com/nikita-1310)
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/nikita-1310)**
 
 - 💬 Ask me about **HTML , CSS , JavaScript , ReactJS**
   
