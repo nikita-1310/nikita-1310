@@ -61,3 +61,12 @@
 <h1></h1>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<h1></h1>
+
+<div align="center">
+<b style = {font-weight:600} >Visitors Count </b>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{nikita-1310}/count.svg" /></p>
+<br>
+</div>
