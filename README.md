@@ -20,7 +20,7 @@
 
 - 📫 How to reach me  <a href="mailto: nikitaagarwal8171@gmail.com">Email</a>
 
-- 💬 Download my CV <a href = "resume.pdf"> Resume </a>
+- 💬 Download my CV <a href = "./Nikita's Resume.pdf"> Resume </a>
 
 - ⚡ Fun fact **I use tab over Spaces**
   
