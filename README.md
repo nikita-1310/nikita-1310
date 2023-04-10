@@ -18,7 +18,7 @@
   
 - 💬 Talk to me about Web Development
 
-- 📫 How to reach me **nikitaagarwal8171@gmail.com**
+- 📫 How to reach me **nikitaagarwal8171@gmail.com**  <a href="nikita">Email</a>
 
 - ⚡ Fun fact **I use tab over Spaces**
   
